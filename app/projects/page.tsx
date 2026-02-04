@@ -101,7 +101,7 @@ export default function Projects() {
       image: "/path/to/project3-screenshot.jpg",
     },
     {
-      title: "Bot de Trading Algorithmique",
+      title: "Jeu multi-joueurs en ligne",
       subtitle: "Application de jeu en ligne temps réel avec stack MEAN (Projet en construction)",
       emoji: "🎮",
       technologies: ["Angular", "Node.js", "Express", "MongoDB", "TypeScript", "Socket.io"],

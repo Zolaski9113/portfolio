@@ -3,10 +3,9 @@
 export default function Hero() {
   return (
     <main style={{
-      height: 'calc(100vh - 81px)', // Ajustez selon la hauteur de votre header et footer
+      height: 'calc(100vh - 75px)', // Ajustez selon la hauteur de votre header et footer
       // Ou utilisez : height: 'calc(100vh - var(--header-height) - var(--footer-height))'
       position: 'relative',
-      overflow: 'hidden',
       display: 'flex',
       alignItems: 'center',
       justifyContent: 'center',
@@ -26,7 +25,7 @@ export default function Hero() {
           overflow: 'hidden',
           background: 'linear-gradient(135deg, rgba(59, 130, 246, 0.3), rgba(30, 41, 59, 0.8))',
         }}>
-          <img src="/background-images/image1.jpg" alt="Projet 1" style={{ width: '100%', height: '100%', objectFit: 'cover', opacity: 0.3 }} />
+          <img src="/portfolio/background-images/image1.jpg" alt="Projet 1" style={{ width: '100%', height: '100%', objectFit: 'cover', opacity: 0.3 }} />
         </div>
 
         {/* Projet 2 - Top Right */}
@@ -35,7 +34,7 @@ export default function Hero() {
           overflow: 'hidden',
           background: 'linear-gradient(135deg, rgba(168, 85, 247, 0.3), rgba(30, 41, 59, 0.8))',
         }}>
-          <img src="/background-images/image2.jpg" alt="Projet 2" style={{ width: '100%', height: '100%', objectFit: 'cover', opacity: 0.3 }} />
+          <img src="/portfolio/background-images/image2.jpg" alt="Projet 2" style={{ width: '100%', height: '100%', objectFit: 'cover', opacity: 0.3 }} />
         </div>
 
         {/* Projet 3 - Bottom Left */}
@@ -44,7 +43,7 @@ export default function Hero() {
           overflow: 'hidden',
           background: 'linear-gradient(135deg, rgba(236, 72, 153, 0.3), rgba(30, 41, 59, 0.8))',
         }}>
-          <img src="/background-images/image3.jpg" alt="Projet 3" style={{ width: '100%', height: '100%', objectFit: 'cover', opacity: 0.3 }} />
+          <img src="/portfolio/background-images/image3.jpg" alt="Projet 3" style={{ width: '100%', height: '100%', objectFit: 'cover', opacity: 0.3 }} />
         </div>
 
         {/* Projet 4 - Bottom Right */}
@@ -53,7 +52,7 @@ export default function Hero() {
           overflow: 'hidden',
           background: 'linear-gradient(135deg, rgba(34, 197, 94, 0.3), rgba(30, 41, 59, 0.8))',
         }}>
-          <img src="/background-images/image4.jpg" alt="Projet 4" style={{ width: '100%', height: '100%', objectFit: 'cover', opacity: 0.3 }} />
+          <img src="/portfolio/background-images/image4.jpg" alt="Projet 4" style={{ width: '100%', height: '100%', objectFit: 'cover', opacity: 0.3 }} />
         </div>
       </div>
 
@@ -130,7 +129,7 @@ export default function Hero() {
               justifyContent: 'center',
               fontSize: '80px',
             }}>
-              <img src="/profile-photo.jpg" alt="Photo de profil" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+              <img src="/portfolio/profile-photo.jpg" alt="Photo de profil" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
             </div>
           </div>
 

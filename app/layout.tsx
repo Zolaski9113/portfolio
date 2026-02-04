@@ -7,7 +7,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   const pathname = usePathname();
 
   // ajuste si ta home est /portfolio au lieu de /
-  const isHome = pathname === '/portfolio' || pathname === '/';
+  const isHome = pathname === '/portfolio' || pathname === '/' || pathname === '/contact';
 
   return (
     <html lang="fr">

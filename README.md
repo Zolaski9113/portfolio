@@ -7,7 +7,6 @@ Portfolio personnel développé avec **Next.js**, **TypeScript** et **Tailwind C
 ## 🚀 Installation
 
 # 1. Cloner le projet
-```bash
 git clone https://github.com/votre-username/nom-du-repo.git
 cd nom-du-repo
 

@@ -20,6 +20,8 @@ npm run dev
 #4. Ouvrir dans le navigateur
 http://localhost:3000
 
+---
+
 # Autres informations
 
 📁 Structure des fichiers

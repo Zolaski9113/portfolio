@@ -22,7 +22,7 @@ http://localhost:3000
 ---
 
 # Autres informations
-
+```bash
 📁 Structure des fichiers
 public/
 ├── background-images/    # Images de fond de la page d'accueil

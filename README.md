@@ -6,19 +6,21 @@ Portfolio personnel développé avec **Next.js**, **TypeScript** et **Tailwind C
 
 ## 🚀 Installation
 
-### 1. Cloner le projet
+## 1. Cloner le projet
 ```bash
 git clone https://github.com/votre-username/nom-du-repo.git
 cd nom-du-repo
 
-###2. Installer les dépendances
+##2. Installer les dépendances
 npm install
 
-###3. Lancer le serveur de développement
+##3. Lancer le serveur de développement
 npm run dev
 
-###4. Ouvrir dans le navigateur
+##4. Ouvrir dans le navigateur
 http://localhost:3000
+
+## Autres informations
 
 📁 Structure des fichiers
 public/

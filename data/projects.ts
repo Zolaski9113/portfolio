@@ -73,7 +73,15 @@ export const projects: Project[] = [
     emoji: '🎮',
     technologies: ['Angular', 'Node.js', 'Express', 'MongoDB', 'TypeScript', 'Socket.io'],
     fullDescription:
-      "Projet personnel de développement d'une application de jeu en ligne temps réel utilisant le stack MEAN (MongoDB, Express.js, Angular, Node.js). Ce projet implémente un système de jeu collaboratif en temps réel avec gestion de sessions utilisateur, synchronisation des données en temps réel via Socket.io et une interface utilisateur moderne basée sur Angular. Le backend est construit avec Node.js et Express.js pour gérer les requêtes HTTP et les communications WebSocket. La base de données MongoDB stocke les données des utilisateurs et du jeu. Ce projet démontre mes compétences en développement full-stack, architecture logicielle, gestion de projets et intégration de technologies modernes pour créer des applications web interactives. Le projet intègre un pipeline CI/CD sur GitLab pour automatiser les tests, le build et le déploiement de l'application.",
+      "Projet intégrateur de génie logiciel (LOG2990) réalisé en équipe à Polytechnique Montréal. " +
+      "Développement d'une application de jeu multijoueur en ligne temps réel avec la stack MEAN " +
+      "(MongoDB, Express.js, Angular, Node.js) et TypeScript. Communication temps réel entre joueurs " +
+      "via Socket.io et WebSockets. " +
+      "Déploiement de l'application sur AWS EC2 — configuration de l'instance et mise en production " +
+      "dans un environnement cloud. Pipeline CI/CD sur GitLab pour automatiser les builds et déploiements. " +
+      "Tests frontend avec Karma/Jasmine (tests unitaires Angular) et Cypress (tests end-to-end). " +
+      "Tests backend avec Mocha/Chai et validation des endpoints REST via Postman. " +
+      "Développement en équipe selon la méthodologie Agile/Scrum avec sprints hebdomadaires et revues de code.",
     image: '/path/to/project3-screenshot.jpg',
     githubLink:
       'https://gitlab.com/polytechnique-montr-al/log2995/20261/equipe-110/LOG2995-110',

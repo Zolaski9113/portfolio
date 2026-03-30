@@ -56,6 +56,7 @@ export const projects: Project[] = [
     image: '/path/to/project3-screenshot.jpg',
     githubLink: 'https://github.com/Zolaski9113/hackathon',
   },
+  
   {
     id: 'trading-bot',
     title: 'Bot de Trading Algorithmique',
@@ -83,7 +84,5 @@ export const projects: Project[] = [
       "Tests backend avec Mocha/Chai et validation des endpoints REST via Postman. " +
       "Développement en équipe selon la méthodologie Agile/Scrum avec sprints hebdomadaires et revues de code.",
     image: '/path/to/project3-screenshot.jpg',
-    githubLink:
-      'https://gitlab.com/polytechnique-montr-al/log2995/20261/equipe-110/LOG2995-110',
   },
 ]

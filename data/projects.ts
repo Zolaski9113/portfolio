@@ -80,8 +80,8 @@ export const projects: Project[] = [
       "via Socket.io et WebSockets. " +
       "Déploiement de l'application sur AWS EC2 — configuration de l'instance et mise en production " +
       "dans un environnement cloud. Pipeline CI/CD sur GitLab pour automatiser les builds et déploiements. " +
-      "Tests frontend avec Karma/Jasmine (tests unitaires Angular) et Cypress (tests end-to-end). " +
-      "Tests backend avec Mocha/Chai et validation des endpoints REST via Postman. " +
+      "Tests frontend avec Karma/Jasmine (tests unitaires Angular)" +
+      "Tests backend avec Mocha/Chai" +
       "Développement en équipe selon la méthodologie Agile/Scrum avec sprints hebdomadaires et revues de code.",
     image: '/path/to/project3-screenshot.jpg',
   },
